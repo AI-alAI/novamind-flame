@@ -3,7 +3,7 @@
 
 > Turning NASA's microgravity combustion data into actionable, evidence-based fire-safety insights for future deep-space crews.
 
-![Dashboard Overview](1.jpg)
+![Dashboard Overview](1.png)
 
 ---
 
@@ -19,24 +19,24 @@ Fire behaves fundamentally differently in microgravity than it does on Earth. Wi
 
 ### 1. 📊 NASA Data Explorer
 Filter 275 FLEX experiments by fuel type, oxygen concentration, and gravity conditions. Export your filtered dataset to CSV for further analysis.
-![Data Explorer](2.jpg)
+![Data Explorer](2.png)
 
 ### 2. 📈 Interactive Visualizations
 Compare microgravity (µg) and terrestrial (1g) combustion dynamics across oxygen levels, radiation, and soot regimes using interactive Plotly charts.
-![Visualizations](3.jpg)
-![Visualizations 2](4.jpg)
+![Visualizations](3.png)
+![Visualizations 2](4.png)
 
 ### 3. 🛟 Automated Fire-Safety Insights
 Our engine auto-generates evidence-backed findings by comparing paired µg and 1g runs. Every insight links directly back to the source NASA experiment IDs.
-![Insights](5.jpg)
+![Insights](5.png)
 
 ### 4. 🏆 Multi-Criteria Experiment Ranking
 A transparent, user-weighted composite score to rank experiments. Adjust the priority sliders in the sidebar to re-rank based on fire-safety relevance, data quality, microgravity signal, and reproducibility.
-![Ranking](6.jpg)
+![Ranking](6.png)
 
 ### 5. ℹ️ Methods & Data Provenance
 Full transparency on our data pipeline, ranking criteria, and dataset composition.
-![Methods](7.jpg)
+![Methods](7.png)
 *(Note: See tab 5 in the app for full details)*
 
 ---
